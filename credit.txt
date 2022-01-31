@@ -1,0 +1,30 @@
+< ---html png--- >
+
+ <a href="https://iconscout.com/icons/html" target="_blank">Html Logo Icon</a> by <a href="https://iconscout.com/contributors/jagathish">Jagathish Saravanan</a> on <a href="https://iconscout.com">Iconscout</a>
+ 
+< ---css3 png--- >
+
+ <a href="https://iconscout.com/icons/css3" target="_blank">Css3 Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
+
+< ---bootstrap png--- >
+ <a href="https://iconscout.com/icons/bootstrap" target="_blank">Bootstrap Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
+
+< ---bootstrap png--- >
+
+ <a href="https://iconscout.com/icons/react" target="_blank">React Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
+
+ < ---FIGMA png--- >
+<a href="https://iconscout.com/icons/figma" target="_blank">Figma Icon</a> by <a href="https://iconscout.com/contributors/icon-54">Icon 54</a> on <a href="https://iconscout.com">Iconscout</a>
+
+
+
+
+ < ---PHOTOSHOP png--- >
+
+
+<a href="https://iconscout.com/icons/adobe-photoshop" target="_blank">Adobe Photoshop Icon</a> by <a href="https://iconscout.com/contributors/minimo" target="_blank">Neelpari Minimo</a>
+
+
+ < ---INKSPACE png--- >
+
+ <a href="https://iconscout.com/icons/inkscape" target="_blank">Inkscape Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>

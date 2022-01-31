@@ -1,0 +1,210 @@
+@media screen and (max-width: 768px) {
+    nav {
+        display: grid;
+        justify-items: center;
+    }
+
+    nav label {
+        padding-bottom: 15px;
+    }
+
+    nav ul li {
+        margin: 0 10px 0 10px;
+    }
+
+    #top-header {
+        height: auto;
+    }
+
+    #top-header , #about{
+        margin-bottom: 10vh;
+    }
+
+    #top-header .container {
+        flex-direction: column;
+        position: relative;
+        top: 6vh;
+    }
+
+    .title-head h1 {
+        padding-top: 20px;
+        font-size: 8vw;
+    }
+
+    .dynamic-txt li {
+        font-size: 5vw;
+    }
+
+    #about .container {
+        flex-direction: column;
+    }
+
+    #about{
+        padding-top: 10vh;
+        position: relative;
+        top: 10vh;
+    }
+
+    .buttons .btn  {
+        margin: 0 10px 0 10px;
+    }
+    #skills {
+        margin-top: 15vh;
+        position: relative;
+        top: 20vh;
+        margin-bottom: 35vh;
+    }
+    .skill-box img{width: 26vw;}
+    
+    .skill-box .progress{
+        width: 50%;
+        bottom: 5vh;
+    }
+    #works .buttons .btn {
+        border: none;
+        padding: 5px;
+        width: 67px;
+        height: 46px;
+        border-radius: 0px;
+  }
+  .contact-container{
+      flex-direction: column;
+  }
+
+  .contact-container .left {
+    width: auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.left-items h1 {width: auto;}
+.left-items .first-items ul{
+    margin-top: 10px;
+    flex-direction: column;
+}
+
+.left-items .first-items ul li {
+    margin-top: 15px;
+}
+.second-items .social-icon {
+    position: relative;
+    top: 6vh;
+}
+.contact-container .right{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+  .contact-container .right form {width: 75vw;}
+
+  .contact-container form .form-row{flex-direction: column;margin: 0;}
+
+  form .form-row .inputBox{margin: 0; margin-top: 20px;}
+
+  .submit-btn .inputBox {top: 25px;left: 0;}
+
+  .submit-btn .inputBox{
+    width: 75% !important;
+}
+}
+
+@media screen and (min-width: 650px) and (max-width: 768px) {
+
+    /* #top-header {
+        margin-bottom: 40vh;
+    } */
+
+}
+@media screen and (max-width: 425px) {
+
+    .head h1 {font-size: 7vw;}
+
+    #works .row{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #works > .row > .column{
+        width: 100%;
+    }
+    #works .buttons .btn {width: 55px;}
+
+    .skill-box img{width: 45vw;}
+
+    .contact-container{
+        margin: 40px 10px 20px 10px;
+    }
+    .contact-container .left {
+        padding: 31px;
+    }
+
+    .contact-container .right form {width: 100vw;}
+    .second-items .social-icon li a {width: 42px;}
+    
+
+    .submit-btn .inputBox{
+        width: 100% !important;
+    }
+}
+
+
+@media screen and (max-width: 375px) {
+    nav ul li {
+        margin: 0 7px 0 7px;
+    }
+
+    .buttons .btn  {
+        margin: 0px 4px 0px 4px;
+    }
+    
+}
+
+
+@media screen and (min-width: 769px) {
+
+    nav ul {
+        padding-right: 60px;
+    }
+
+    #about .container img {
+        width: 50vw;
+    }
+
+    .buttons .btn {
+        margin: 0 15px 0 15px;
+    }
+
+    .head h1 {
+        font-size: 3vw;
+    }
+    .skill-box .progress{
+        width: 40%;
+    }
+    .skill-box .progress{
+        bottom: 10vh;
+    }
+    #works .buttons .btn{
+        background: transparent;
+        box-shadow: none;
+    }
+    .contact-container .left {
+        border-top-left-radius: 45px;
+    border-bottom-left-radius: 45px;
+    }
+    .left-items .first-items ul {
+        margin-top: 40px;
+        flex-direction: column;
+    }
+    .contact-container .right {
+        border-top-right-radius: 45px;
+        border-bottom-right-radius: 45px;
+    }
+    .submit-btn .inputBox{
+        width: 30% !important;
+    }
+
+}
+
+@media screen and (min-width: 980px) {
+    /* 
+    .second-items .social-icon {top: 7vh;} */
+}
