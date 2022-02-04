@@ -358,7 +358,6 @@ nav label a:hover {
 .column {
     display: none;
     /* Hide all elements by default */
-    height: 45vh;
     width: 300px;
 }
 
