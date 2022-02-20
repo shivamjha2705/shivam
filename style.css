@@ -546,13 +546,13 @@ form .form-row .textarea {
 .textarea textarea:focus~label,
 .inputBox input:valid~label,
 .textarea textarea:valid~label {
-    transform: translateY(-35px);
+    transform: translateY(-30px);
     font-size: 14px;
 }
 
 .inputBox label {
     position: absolute;
-    bottom: 10px;
+    bottom: 0.5vh;
     font-size: 16px;
     pointer-events: none;
     transition: all 0.3s ease;
